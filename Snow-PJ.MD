@@ -5,6 +5,6 @@ Hi! I'm  **Pujeethaa Jakka**. I am doing Masters in [Information Management](htt
 
 ## Flow Chart
 
-![Sample diagram](Pujeethaa_snow.svg)
+![Sample diagram](Pujeethaa_Snow.svg)
 
 ## Check the [weather](https://weather.com/weather/tenday/l/USIL0209:1:US) to know if you are expecting a snow storm!!
